@@ -1,0 +1,5 @@
+Method,top@100,precision@100,recall@100
+GNN (GAE),0.68,0.68,0.0408
+CommonNeighbors,0.59,0.59,0.0354
+Jaccard,0.46,0.46,0.0276
+AdamicAdar,0.58,0.58,0.0348

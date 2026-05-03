@@ -1,0 +1,10 @@
+Attribute,Fraction Removed,Accuracy,F1_macro
+dorm,0.1,0.166,0.008
+dorm,0.2,0.159,0.006
+dorm,0.3,0.167,0.007
+major_index,0.1,0.158,0.025
+major_index,0.2,0.155,0.023
+major_index,0.3,0.148,0.022
+gender,0.1,0.592,0.577
+gender,0.2,0.585,0.572
+gender,0.3,0.584,0.576

@@ -1,0 +1,10 @@
+Network,Predictor,top@50,precision@50,recall@50
+Caltech,CommonNeighbors,0.62,0.62,0.0186
+Caltech,Jaccard,0.5,0.5,0.015
+Caltech,AdamicAdar,0.68,0.68,0.0204
+MIT (500-node sample),CommonNeighbors,0.2,0.2,0.0699
+MIT (500-node sample),Jaccard,0.08,0.08,0.028
+MIT (500-node sample),AdamicAdar,0.3,0.3,0.1049
+JohnsHopkins (500-node sample),CommonNeighbors,0.14,0.14,0.0405
+JohnsHopkins (500-node sample),Jaccard,0.1,0.1,0.0289
+JohnsHopkins (500-node sample),AdamicAdar,0.16,0.16,0.0462
